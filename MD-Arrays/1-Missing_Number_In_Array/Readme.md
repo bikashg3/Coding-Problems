@@ -25,3 +25,5 @@ Output:
 
 Explanation:
 Testcase 1: Given array : 1 2 3 5. Missing element is 4.
+
+https://practice.geeksforgeeks.org/problems/missing-number-in-array/0
